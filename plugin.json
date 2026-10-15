@@ -1,0 +1,7 @@
+{
+  "id": "prompt-library",
+  "name": "Prompt Library",
+  "sourceRepository": "https://github.com/GoblinRules/ecpa-plugins",
+  "sourcePath": "plugins/prompt-library",
+  "registry": "https://raw.githubusercontent.com/GoblinRules/ecpa-plugins/master/registry.json"
+}
